@@ -3,7 +3,7 @@
 <p align="center">
 MS Computer Science @ University of Florida • Background in Architectural Design  
 <br/>
-Building software systems for cities, infrastructure, and real-world environments
+Building software systems for the built environment
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ I design and build systems that connect software to the physical world: civic pl
 
 ## Featured Projects
 
-### Pave — Civic Reporting Platform
+### Pave
 Modern 311-style issue reporting system.
 
 **Stack:** React Native • Flask • SQLite
