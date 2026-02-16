@@ -56,8 +56,3 @@ Backend service for structured event data extraction.
 - RESTful API architecture
 - Database schema + retrieval logic
 - High-volume data processing
-
----
-<p align="center">
-Bridging digital systems and the built environment.
-</p>
